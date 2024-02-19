@@ -1,0 +1,13 @@
+D:\AXOFT\FacturasAxoft\FacturasAxoft\bin\Debug\net6.0\FacturasAxoft.deps.json
+D:\AXOFT\FacturasAxoft\FacturasAxoft\bin\Debug\net6.0\FacturasAxoft.dll
+D:\AXOFT\FacturasAxoft\FacturasAxoft\bin\Debug\net6.0\FacturasAxoft.pdb
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.AssemblyInfoInputs.cache
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.AssemblyInfo.cs
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.csproj.CoreCompileInputs.cache
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.sourcelink.json
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.dll
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\refint\FacturasAxoft.dll
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.pdb
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\ref\FacturasAxoft.dll
+D:\AXOFT\FacturasAxoft\FacturasAxoft\obj\Debug\net6.0\FacturasAxoft.csproj.AssemblyReference.cache
